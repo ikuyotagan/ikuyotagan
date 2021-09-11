@@ -1,6 +1,7 @@
+![09141109092021_f8e2668d468d0a83016bd9d8a261b330ff850882](https://user-images.githubusercontent.com/63468028/132940684-0667da00-4597-4a17-84e4-04c7ebd48c50.gif)
+<!-- 
 ### Hi there 👋
 
-<!--
 **ikuyotagan/ikuyotagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
